@@ -16,6 +16,13 @@
 <div display = "flex">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 
+## Games 
+<div display = "flex">
+  <a href="https://steamcommunity.com/profiles/76561199276638302/" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+ 
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnrx23&show_icons=true&locale=en" alt="gnrx23" /></p>
 
