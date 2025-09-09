@@ -1,7 +1,8 @@
 # <h1 align="center">Hi 👋, I'm Farash Adipati Mursalin</h1>
 <h3 align="center">Development Of Website</h3>
 
-
+![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
